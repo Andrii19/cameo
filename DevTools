@@ -1,0 +1,93 @@
+14:18:44.733 Navigated to https://www.cameo.com/
+14:18:45.022 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+14:18:47.035 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+14:18:49.407 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+14:18:52.033 amplitude.js:227 Initialized Amplitude Client
+14:18:54.237 utils.js:11 react-i18next:: It seems you are still using the old wait option, you may migrate to the new useSuspense behaviour.
+r @ 3007-f5260d093dfdf83afb59.js:633
+o @ 3007-f5260d093dfdf83afb59.js:633
+f @ 3007-f5260d093dfdf83afb59.js:633
+(anonymous) @ bundle-931012e03101ae5ee4e2.js:1
+aa @ 3007-f5260d093dfdf83afb59.js:633
+qs @ 3007-f5260d093dfdf83afb59.js:633
+xu @ 3007-f5260d093dfdf83afb59.js:633
+Mu @ 3007-f5260d093dfdf83afb59.js:633
+Ou @ 3007-f5260d093dfdf83afb59.js:633
+vu @ 3007-f5260d093dfdf83afb59.js:633
+fu @ 3007-f5260d093dfdf83afb59.js:633
+Xu @ 3007-f5260d093dfdf83afb59.js:633
+(anonymous) @ 3007-f5260d093dfdf83afb59.js:633
+yu @ 3007-f5260d093dfdf83afb59.js:633
+rl @ 3007-f5260d093dfdf83afb59.js:633
+t.hydrate @ 3007-f5260d093dfdf83afb59.js:633
+(anonymous) @ bundle-931012e03101ae5ee4e2.js:1
+Promise.then (async)
+M @ 3007-f5260d093dfdf83afb59.js:633
+(anonymous) @ bundle-931012e03101ae5ee4e2.js:1
+Promise.then (async)
+66753 @ bundle-931012e03101ae5ee4e2.js:1
+l @ bundle-931012e03101ae5ee4e2.js:1
+(anonymous) @ bundle-931012e03101ae5ee4e2.js:1
+l.O @ bundle-931012e03101ae5ee4e2.js:1
+t @ bundle-931012e03101ae5ee4e2.js:1
+(anonymous) @ 3007-f5260d093dfdf83afb59.js:2
+14:19:17.803 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+14:19:17.955 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+14:19:18.068 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+14:19:18.261 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+14:19:20.118 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+14:19:20.292 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+14:19:21.262 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+14:19:21.944 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+14:19:22.983 datadog-rum-us.js:5          POST https://api.sprig.com/sdk/1/visitors/23cd69b0-642c-46c3-ba87-77d30bd2a5bc/events 422 (Unprocessable Entity)
+window.fetch @ datadog-rum-us.js:5
+jt @ 3007-f5260d093dfdf83afb59.js:633
+o @ 3007-f5260d093dfdf83afb59.js:633
+Kr @ shim.js?id=1w_tMI_0O3CK:2
+Yr @ shim.js?id=1w_tMI_0O3CK:2
+r @ shim.js?id=1w_tMI_0O3CK:2
+track @ shim.js?id=1w_tMI_0O3CK:2
+push @ shim.js?id=1w_tMI_0O3CK:2
+flush @ shim.js?id=1w_tMI_0O3CK:2
+unpause @ shim.js?id=1w_tMI_0O3CK:2
+r @ shim.js?id=1w_tMI_0O3CK:2
+load (async)
+Yf @ shim.js?id=1w_tMI_0O3CK:2
+(anonymous) @ shim.js?id=1w_tMI_0O3CK:2
+(anonymous) @ shim.js?id=1w_tMI_0O3CK:2
+14:19:23.692 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+14:20:02.321 Navigated to https://www.cameo.com/
+14:20:02.910 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+14:20:04.051 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+14:20:16.387 amplitude.js:227 Initialized Amplitude Client
+14:20:17.888 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: Fetch through target failed: Frame not found; Fallback: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+14:20:17.999 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+14:20:18.574 utils.js:11 react-i18next:: It seems you are still using the old wait option, you may migrate to the new useSuspense behaviour.
+r @ utils.js:11
+o @ utils.js:22
+f @ useTranslation.js:45
+(anonymous) @ index.tsx:95
+aa @ react-dom.production.min.js:157
+qs @ react-dom.production.min.js:267
+xu @ react-dom.production.min.js:250
+Mu @ react-dom.production.min.js:250
+Ou @ react-dom.production.min.js:250
+vu @ react-dom.production.min.js:243
+fu @ react-dom.production.min.js:237
+Xu @ react-dom.production.min.js:285
+(anonymous) @ react-dom.production.min.js:289
+yu @ react-dom.production.min.js:244
+rl @ react-dom.production.min.js:289
+t.hydrate @ react-dom.production.min.js:295
+(anonymous) @ client.js:318
+Promise.then (async)
+M @ loadable.esm.js:553
+(anonymous) @ client.js:317
+Promise.then (async)
+66753 @ client.js:316
+l @ bootstrap:19
+(anonymous) @ startup:4
+l.O @ chunk loaded:23
+(anonymous) @ startup:5
+(anonymous) @ bundle-931012e03101ae5ee4e2.js:1
+14:20:18.906 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
