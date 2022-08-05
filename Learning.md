@@ -10,3 +10,6 @@
 
 
 Тестування веб-форм  https://github.com/Andrii19/Glossary/blob/main/form%20testing.pdf
+
+
+Клієнт серверна архітектура   https://github.com/Andrii19/QA_bible/blob/master/seti-i-okolo-nikh/klient-servernaya-arkhitektura-client-server-architecture.md
