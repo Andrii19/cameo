@@ -1,13 +1,7 @@
 14:18:44.733 Navigated to https://www.cameo.com/
 14:18:45.022 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
 14:18:47.035 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
-14:18:49.407 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
-14:18:52.033 amplitude.js:227 Initialized Amplitude Client
-14:18:54.237 utils.js:11 react-i18next:: It seems you are still using the old wait option, you may migrate to the new useSuspense behaviour.
- @ 3007-f5260d093dfdf83afb59.js:633
 
-vu @ 3007-f5260d093dfdf83afb59.js:633
-fu @ 3007-f5260d093dfdf83afb59.js:633
 Xu @ 3007-f5260d093dfdf83afb59.js:633
 (anonymous) @ 3007-f5260d093dfdf83afb59.js:633
 yu @ 3007-f5260d093dfdf83afb59.js:633
