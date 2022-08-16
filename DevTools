@@ -5,10 +5,7 @@
 14:18:52.033 amplitude.js:227 Initialized Amplitude Client
 14:18:54.237 utils.js:11 react-i18next:: It seems you are still using the old wait option, you may migrate to the new useSuspense behaviour.
  @ 3007-f5260d093dfdf83afb59.js:633
-f @ 3007-f5260d093dfdf83afb59.js:633
-(anonymous) @ bundle-931012e03101ae5ee4e2.js:1
-aa @ 3007-f5260d093dfdf83afb59.js:633
-qs @ 3007-f5260d093dfdf83afb59.js:633
+
 xu @ 3007-f5260d093dfdf83afb59.js:633
 Mu @ 3007-f5260d093dfdf83afb59.js:633
 Ou @ 3007-f5260d093dfdf83afb59.js:633
