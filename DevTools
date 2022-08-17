@@ -11,13 +11,6 @@ t.hydrate @ 3007-f5260d093dfdf83afb59.js:633
 Promise.then (async)
 M @ 3007-f5260d093dfdf83afb59.js:633
 (anonymous) @ bundle-931012e03101ae5ee4e2.js:1
-Promise.then (async)
-66753 @ bundle-931012e03101ae5ee4e2.js:1
-l @ bundle-931012e03101ae5ee4e2.js:1
-(anonymous) @ bundle-931012e03101ae5ee4e2.js:1
-l.O @ bundle-931012e03101ae5ee4e2.js:1
-t @ bundle-931012e03101ae5ee4e2.js:1
-(anonymous) @ 3007-f5260d093dfdf83afb59.js:2
 14:19:17.803 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
 14:19:17.955 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
 14:19:18.068 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
