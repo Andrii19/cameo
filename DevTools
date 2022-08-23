@@ -6,8 +6,8 @@ Promise.then (async)iled to load source map: Could not load content for chrome-e
 14:19:18.261 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
 14:19:20.118 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
 14:19:20.292 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
-14:19:21.262 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
-jt @ 3007-f5260d093dfdf83afb59.js:633
+14:19:21.262 DevTools  to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+jt @ 3007-f5260d093dfdf83afb.js:633
 Kr @ shim.js?id=1w_tMI_0O3CK:2
 r @ shim.js?id=1w_tMI_0O3CK:2
 load (async)
